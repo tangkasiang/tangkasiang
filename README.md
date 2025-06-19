@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <h1 align="center">Hi there, I'm Tangkas
 
-![Header](img/github-header-image.(1).png)
+![Header](/github-header-image.(1).png)
 
 
 ---
