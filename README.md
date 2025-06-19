@@ -1,9 +1,6 @@
 <!-- GitHub Profile README -->
 <h1 align="center">Hi there, I'm Tangkas
 
-![Header](/github-header-image.(1).png)
-
-
 ---
 
 ### 👤 About Me
